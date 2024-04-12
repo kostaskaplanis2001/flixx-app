@@ -4,12 +4,13 @@
 
 #### An example of the UI is shown below ####
 
-![main-page](https://github.com/kostaskaplanis2001/flixx-app/assets/84383274/adfb0e78-16cf-4a12-9048-5c65dc4ef025)
+![main-page](https://github.com/kostaskaplanis2001/flixx-app/assets/84383274/5b792999-3ae3-4fe6-a43e-626f226cf6a2)
 
-![movie-details-page](https://github.com/kostaskaplanis2001/flixx-app/assets/84383274/89f8b861-a3a9-472d-b4e2-7dbec7f1b367)
+![search-page-2](https://github.com/kostaskaplanis2001/flixx-app/assets/84383274/5a322fd4-3df8-4e33-b248-d97d2e70741a)
 
-![tv-shows-details-page](https://github.com/kostaskaplanis2001/flixx-app/assets/84383274/5c44b3c5-52b0-4cf1-87da-35e73b2df711)
+![movie-details](https://github.com/kostaskaplanis2001/flixx-app/assets/84383274/985428aa-88fd-435e-92b1-865adbf222b3)
 
-![Search-page](https://github.com/kostaskaplanis2001/flixx-app/assets/84383274/0fa91677-c299-4f40-9f95-c01567f9cf6e)
+
+Find a demo [here!](https://idyllic-pithivier-5d290a.netlify.app/)
 
 This project created by styding at Brad Traversy's Udemy Courses.
